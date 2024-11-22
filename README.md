@@ -1,4 +1,4 @@
-![MasterHead](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3o7btMCltyDvSgF92E" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/crunchyroll-simulcast-3o7btMCltyDvSgF92E">via GIPHY</a></p>)
+![MasterHead]("https://giphy.com/embed/3o7btMCltyDvSgF92E")
 <h1 align="center">Hi 👋, I'm Tahmid Huda</h1>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
