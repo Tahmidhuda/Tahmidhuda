@@ -1,4 +1,4 @@
-![MasterHead](["https://giphy.com/embed/3o7btMCltyDvSgF92E"](https://cdn.wallpapersafari.com/32/28/iIdtRX.gif))
+![MasterHead](https://cdn.wallpapersafari.com/32/28/iIdtRX.gif)
 <h1 align="center">Hi 👋, I'm Tahmid Huda</h1>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
