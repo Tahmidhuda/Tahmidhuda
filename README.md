@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/wp/wp5183571.gif))
+![MasterHead](https://wallpapercave.com/wp/wp5183571.gif)
 <h1 align="center">Hi 👋, I'm Tahmid Huda</h1>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
